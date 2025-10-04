@@ -10,7 +10,7 @@
 #include "HTTPComponent.generated.h"
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class UNREALPRACTICEPROJECT_API UHTTPComponent : public UActorComponent
+class UNREALPRACTICE_API UHTTPComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

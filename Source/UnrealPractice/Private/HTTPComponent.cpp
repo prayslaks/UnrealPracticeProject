@@ -1,6 +1,6 @@
 ﻿// Fill out your copyright notice in the Description page of Project Settings.
 
-#include "UnrealPracticeProject/Public/HTTPComponent.h"
+#include "UnrealPractice/Public/HTTPComponent.h"
 #include "HttpComponent.h"
 #include "Interfaces/IHttpRequest.h"
 #include "Interfaces/IHttpResponse.h"

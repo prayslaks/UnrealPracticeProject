@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "UnrealPracticeProject",
+			"Name": "UnrealPractice",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
